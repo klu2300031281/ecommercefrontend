@@ -7,7 +7,7 @@ const AboutUs = () => {
     <div className="about-container">
 
       <h2>About Our Electronic Store</h2>
-      <h3>Nagaraju56</h3>
+      <h3>Yada Nagaraju</h3>
       
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
